@@ -517,11 +517,7 @@
 <div class="gcse-search">
   
 </div>
-
-
-
     <main class="page-content">
-      
         <section>
             <h2 class="section-title">Image And Pdf Tools</h2>
             <div class="tools-grid">
@@ -536,11 +532,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/pdf-file-compression.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-
-
-               
-                
                 <!-- Tool Card 2 -->
                 <div class="tool-card">
                     <div class="tool-icon generator">
@@ -552,7 +543,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/pdf-merge-online.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
                 <!-- Tool Card 3 -->
                 <div class="tool-card">
                     <div class="tool-icon calculator">
@@ -564,7 +554,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/text-to-pdf.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
                 <!-- Tool Card 4 -->
                 <div class="tool-card">
                     <div class="tool-icon checker">
@@ -576,9 +565,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/pdf-file-compression.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-
-
                 <!-- Tool Card 5 -->
                 <div class="tool-card">
                     <div class="tool-icon converter">
@@ -590,10 +576,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/image-compressor.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
-
-
                 <!-- Tool Card 6 -->
                 <div class="tool-card">
                     <div class="tool-icon seo">
@@ -605,10 +587,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/text-to-image-converter.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-
-
-
                 <!-- Tool Card 7 -->
                 <div class="tool-card">
                     <div class="tool-icon seo">
@@ -620,8 +598,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/image-resizer.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
                 <!-- Tool Card 8 -->
                 <div class="tool-card">
                 <div class="tool-icon seo">
@@ -633,7 +609,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/image-converter.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
                 <!-- Tool Card 9 -->
                 <div class="tool-card">
                 <div class="tool-icon seo">                   
@@ -645,8 +620,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/image-to-pdf-converter.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-           
-
             <!-- Tool Card 10 -->
             <div class="tool-card">
             <div class="tool-icon seo">                   
@@ -669,11 +642,7 @@
                     <a href="https://www.miniwebtool.live/2025/03/image-cropper.html" class="tool-button">Use Tool</a>
                 </div>
             </div>
-    
-        
             </div>
-
-
                                       <br>     <br>
             <h2 class="section-title">General Web Tools</h2>
             <div class="tools-grid">
@@ -688,8 +657,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/typing-speed-tester.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
                 <!-- Tool Card 2 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -701,7 +668,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/internet-speed-test.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
                 <!-- Tool Card 3 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -713,8 +679,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/random-celebrity-generator.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
                 <!-- Tool Card 4 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -726,8 +690,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/qr-code-reader.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
                 <!-- Tool Card 5 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -739,7 +701,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/barcode-reader.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
                 <!-- Tool Card 5 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -751,8 +712,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/barcode-generator.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
                 <!-- Tool Card 6 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -764,7 +723,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/ifsc-code-to-bank-details.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
                 <!-- Tool Card 7 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -776,7 +734,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/airport-currency-exchange-rate.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
                   <!-- Tool Card 8 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
@@ -788,8 +745,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/instagram-vip-bio-stylish-fonts.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-  <!-- Tool Card 9 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://play-lh.googleusercontent.com/WxnHp5LU9RRCcj2cWsyzQX8xuPEGBHHUDdkfltjK9M7ZB6BwVCwGnaD2bFckjcZI9g" alt="SpeedoMeter"/>
@@ -800,9 +755,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/gps-speedometer-online.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
- <!-- Tool Card 10 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://cdn-icons-png.flaticon.com/512/8135/8135696.png" alt="Trending Hashtag"/>
@@ -813,9 +765,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/trending-hashtag-generator.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
- <!-- Tool Card 11 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://play-lh.googleusercontent.com/QROmWLg7Ko1EzhNWh45lrl-6cFL8FDP1Uo129781wkVRSsZ3wnDiu_GEqyGhZew7tm0" alt="Pin Code My Location"/>
@@ -826,8 +775,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/pin-code-my-location.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-              <!-- Tool Card 12 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://digitional.com/wp-content/uploads/2024/07/Upi-generate-aadhar.png" alt="UPI QR Code Generator"/>
@@ -838,8 +785,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/npci-qr-code-generator.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
- <!-- Tool Card 13 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://cdn-icons-png.freepik.com/512/6159/6159318.png" alt="IP Address"/>
@@ -850,8 +795,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/whats-my-ip-address.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-<!-- Tool Card 14 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://play-lh.googleusercontent.com/hruuFq8giU1BFxp04AmIfQJMYeANSHD-P_bL_cS0bEQT8PBHY-vGYebAibpdWrJQWw" alt="URL To Video Player"/>
@@ -862,8 +805,6 @@
                         <a href="https://www.miniwebtool.live/2025/03/online-video-player-from-url.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-<!-- Tool Card 14 -->
                 <div class="tool-card">
                     <div class="tool-icon analytics">
                         <img src="https://play-lh.googleusercontent.com/8cT0Y4kkdFuywFo8SxjC7Kv6I3fl2vUitoT9WDDlpZ4fTlV9oHuOnh8rF26ox1H4Mw" alt="Notepad"/>
@@ -874,59 +815,38 @@
                         <a href="https://www.miniwebtool.live/2025/03/online-notepad.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-
-
-
-              
-              
-              
-              
-              
-
                 </div>
                                                                 <!-- Categories Section -->
         <section class="categories-section">
             <h2 class="section-title">Browse by Category</h2>
             <div class="categories">
-              
               <a href="/p/stopwatch-timer.html">
               <div class="category-tag">Online Timer</div>
               </a>
-              
                <a href="/p/online-image-tools.html">
               <div class="category-tag">Image Tools</div>
               </a>
-              
                <a href="/p/general-web-tools.html">
               <div class="category-tag">General Web Tools</div>
               </a>
-              
                  <a href="/p/youtube-tool.html">
               <div class="category-tag">YouTube Tools</div>
               </a>
-              
               <a href="/p/pdf-tools.html">
               <div class="category-tag">Pdf Tools</div>
               </a>
-              
                   <a href="/p/developer-tools.html">
               <div class="category-tag">Developer Tools</div>
               </a>
-              
                   <a href="/p/finance-calculator.html">
               <div class="category-tag">Finance Calculator</div>
               </a>
-              
             </div>
         </section>
-        
                                                 <!-- Youtube Tools Section -->
-          
         <section style="margin-top: 40px;">
             <h2 class="section-title">Youtube Tools</h2>
             <div class="tools-grid">
-              
-              
                 <!-- Tool Card 1 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #FFF720 0%, #3CD500 100%);">
@@ -938,8 +858,6 @@
                         <a href="/2025/03/youtube-embed-code-generator.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-              
                 <!-- Tool Card 2 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #FF6B6B 0%, #556270 100%);">
@@ -951,8 +869,6 @@
                         <a href="/2025/03/youtube-tags-extractor.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-              
                 <!-- Tool Card 3 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #F761A1 0%, #8C1BAB 100%);">
@@ -964,8 +880,6 @@
                         <a href="/2025/03/youtube-title-copy.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-                
-              
                 <!-- Tool Card 4 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #00C9FF 0%, #92FE9D 100%);">
@@ -977,8 +891,6 @@
                         <a href="/2025/03/youtube-description-copy.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
-              
                   <!-- Tool Card 5 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #F761A1 0%, #8C1BAB 100%);">
@@ -990,8 +902,6 @@
                         <a href="/2025/03/youtube-thumbnail-download.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
-                 <!-- Tool Card 6 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #F761A1 0%, #8C1BAB 100%);">
                         <img src="https://play-lh.googleusercontent.com/GAHfUGP_sBVo3qiw-Zm45FMCOfCPJC3kamC6Sf_VgvHhb2R2T6EOeaOl1RNwWIHD8zo" alt="QR Code Generator" />
@@ -1002,9 +912,6 @@
                         <a href="/2025/03/youtube-tag-generator-free.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
-              
-               <!-- Tool Card 7 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #F761A1 0%, #8C1BAB 100%);">
                         <img src="https://play-lh.googleusercontent.com/i--7wqUgVv9FwA1xib2qDkI4SKdSqWGxk8ECbAQsDX4exdyiaVDpGNWbTcXH_qmjG7ph" alt="QR Code Generator" />
@@ -1015,8 +922,6 @@
                         <a href="/2025/03/youtube-view-generator-free.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
-                 <!-- Tool Card 8 -->
                 <div class="tool-card">
                     <div class="tool-icon" style="background: linear-gradient(135deg, #FF6B6B 0%, #556270 100%);">
                         <img src="https://img.utdstc.com/icon/817/387/8173871cd991f9f109403223895edf16c20eb61fac03bf3863387468d5264efe:200" alt="Password Generator" />
@@ -1027,8 +932,6 @@
                         <a href="/2025/03/youtube-to-mp3-converter.html" class="tool-button">Use Tool</a>
                     </div>
                 </div>
-              
             </div>
-        </section>
-          
+              </section>
           </main>
