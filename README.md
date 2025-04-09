@@ -34,9 +34,11 @@
             padding: 2rem 0;
             text-align: center;
         }
-        .container {
+      .container {
+            width: 90%;
             max-width: 1200px;
             margin: 0 auto;
+            padding: 1rem 0;
         }
         h1 {
             font-size: 2.5rem;
