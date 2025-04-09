@@ -146,12 +146,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>MiniWebTool</h1>
-            <p>Your One-Stop Resource for Free Online Calculators & Useful Web Tools</p>
-        </div>
-    </header>
     <div class="container">
         <section class="intro">
             <h2>Welcome to MiniWebTool</h2>
