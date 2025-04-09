@@ -6,6 +6,7 @@
     <title>MiniWebTool - Free Online Calculators & Useful Web Tools</title>
     <meta name="description" content="Access 200+ free online calculators and web tools for finance, health, conversion, and productivity. No registration required.">
     <meta name="keywords" content="online calculators, web tools, finance calculator, health calculator, conversion tools, free online tools">
+     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwBkU2V4a92nw7kSoNDhlZDrusg48kBQgnZWyogM2H4R_qgwcugcRXitir-p7At0D92AWyUc9KgaWGT6DEJ8XkJjle7hV08C_YMO0J_5ML0ZNKAAOQsLTG88C8ZhOvVOU-lptwXMQzzHlRNM-wq2plHfRTptBPGZ9K0yRfZrF6Wx2RWgUxIMaURU4_yy0/s320/Settings_android-8.png">
     <style>
         :root {
             --primary-color: #2563eb;
